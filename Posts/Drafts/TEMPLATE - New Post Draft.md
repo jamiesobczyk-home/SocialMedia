@@ -1,0 +1,34 @@
+---
+date: YYYY-MM-DD
+series: A | C
+status: draft
+tags: []
+---
+
+<!-- 
+HOOK OPTION 1:
+[First two lines — specific, creates a gap, or subverts expectation]
+
+HOOK OPTION 2:
+[Alternate opening]
+
+---
+
+WORD COUNT TARGET: 120–260 words (up to ~290 if the story earns it)
+LENS APPLIED: [systems thinking | behavioral economics | stoicism | Creighton value]
+
+Series A rules: No shop metaphors. IT/management experience only.
+Series C rules: Woodworking shop experience must anchor the post. Parallel drawn to IT/professional lesson.
+
+Style reminders:
+- Varied sentence length. Short sentences land hard after longer setup.
+- Contractions where natural.
+- First person, active, specific — name the actual thing that happened.
+- Don't over-explain the lesson. The situation does the work.
+- Peer-to-peer, not instructional.
+- No em dashes, hashtags, emojis, bold, or bullets inside the post.
+
+ARC: Concrete situation → Lesson → Practical implication → Closing question
+-->
+
+[POST TEXT HERE]
