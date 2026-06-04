@@ -1,7 +1,7 @@
 ---
 date: 2026-06-04
 series: C
-status: draft
+status: scheduled
 tags: [series-c, woodworking, testing, staging, overconfidence]
 lens: behavioral-economics (overconfidence bias — quiet)
 word-count: 193
@@ -15,9 +15,9 @@ HOOK OPTION B — subverts expectation, creates a gap:
 "I make a test cut on scrap every time I set up a new cut. Not because I'm unsure of my setup. Because confidence is exactly when I'm most likely to be wrong."
 -->
 
-The wood was expensive. Walnut, figured, exactly the right width for the piece. I had the fence set, the blade at the right angle, and I knew the cut was right.
+I was working in my workshop on building a new project. The wood was expensive. Walnut, figured, exactly the right width for the piece. I had the fence set, the blade at the right angle, and I knew the cut was right.
 
-Before I pushed it through, I grabbed a scrap off the floor and ran that first.
+Before I pushed it through, I grabbed a board out my scrap pile and ran that first.
 
 The fence was off by just enough. A sixteenth of an inch. Nothing you'd catch by looking. Everything you'd notice in the finished piece.
 
