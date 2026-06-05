@@ -13,21 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drafts/2026-06-04 - Run the Scrap First.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-04 - Run the Scrap First"
-            }
-          },
-          {
-            "id": "f94f4ad876f158e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drafts/2026-06-04 - Run the Scrap First.md",
+                "file": "Published/2026-06-04 - Run the Scrap First.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +21,7 @@
               "title": "2026-06-04 - Run the Scrap First"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,9 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "f94f4ad876f158e3",
+  "active": "0ba208cadcfcd036",
   "lastOpenFiles": [
     "Drafts/2026-06-04 - Run the Scrap First.md",
+    "Published/2026-06-04 - Run the Scrap First.md",
+    "Published/2026-06-04 - Run the Scrap First.md.tmp.34856.ad1bb8e99556",
     "Drafts/TEMPLATE - New Post Draft.md",
     "Ideas/Series A - Data Center GPU Cooling.md",
     "Published/2025-07-23 - Listening Is the Most Underrated Skill.md"
