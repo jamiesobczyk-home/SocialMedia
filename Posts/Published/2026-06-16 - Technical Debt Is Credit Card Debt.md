@@ -9,9 +9,9 @@ word-count: 235
 
 A change that should have taken my team an afternoon took them a week.
 
-Three undocumented firewall exceptions. A library two versions past end of life. One config setting nobody could explain, that everything quietly depended on. None of it mattered when it got created. All of it mattered now.
+Three undocumented firewall exceptions. Firmware four versions behind the current starred release. One config setting nobody could explain, that everything depended on. None of it mattered when it got created. All of it mattered now.
 
-That's how technical debt works. Same as credit card debt. You borrow against the future to move faster today, and for a while the minimum payment feels fine. Then the interest is eating every sprint and you can't remember what you even bought.
+That's how technical debt works. It's the same as credit card debt. You borrow against the future to move faster today, and for a while the minimum payment feels fine. Then the interest is eating every sprint and you can't remember what you even bought.
 
 Forrester says 75% of IT leaders expect technical debt to hit severe levels this year. I believe it. And there's a new kind nobody budgeted for: code an AI wrote quickly, that works, that nobody on the team can actually explain. It runs fine right up until someone has to change it.
 
