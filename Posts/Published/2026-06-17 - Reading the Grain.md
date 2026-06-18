@@ -1,20 +1,11 @@
 ---
-date: YYYY-MM-DD
+date: 2026-06-17
 series: C
-status: draft
+status: published
 tags: [series-c, woodworking, cura-personalis, systems-thinking, adaptability, people-management]
-lens: cura personalis (adapt to the person in front of you) + systems thinking
-word_count: ~250
+lens: cura personalis (adapt to the person in front of you) + systems-thinking
+word-count: 255
 ---
-
-<!--
-OPENING (Jamie's): "I was smoothing a board with a hand plane. Long, clean shavings were spiraling off the plane."
-Calmer setup that pays off on the contrast. Hook A ("ripped a chunk out") is on file if you ever want a punchier open.
-
-ARC: shop story (grain reversal / tearout) -> lesson (read the material, adapt the method) -> implication (process/people) -> closing question
-SERIES C: shop story told first, professional parallel drawn from it.
-Final = Jamie's rewrite, one tense fix applied (appreciates -> appreciated for parallelism).
--->
 
 I was smoothing a board with a hand plane. Long, clean shavings were spiraling off the plane. The surface looked like glass behind it. Then I crossed into a new section and the plane dug in and tore a chunk out of the face.
 
