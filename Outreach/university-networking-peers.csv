@@ -19,24 +19,25 @@ Tier,Name,Title,University,Affiliation,LinkedIn,LinkedInStatus,Hook,Status
 2,Tina Mabe,"Director, Network Infrastructure Systems & Services",University of San Diego,,https://www.linkedin.com/in/tina-mabe-8089355/,Confirmed,Voice/video/data infra,Sent 2026-06-25
 2,Tony Wyland,"Director of Systems, Network & Communications",Messiah University,,https://www.linkedin.com/in/tony-wyland-2976b380/,Confirmed,Small private combined role,Sent 2026-06-25
 2,Eric Wersal,"Associate Director, Network Infrastructure",TCU,,https://www.linkedin.com/in/eric-wersal-86a0b1126/,Confirmed,Data/wireless/telephony/radio,Sent 2026-06-25
-2,Shannon Price,Director of Network Services (College of Engr.),Auburn,,https://www.linkedin.com/in/price-shannon-3028763/,Confirmed,20+ yrs research networking,Not sent
-2,Steve Lee,"Executive Director, Network Infrastructure & Services",Virginia Tech,,https://www.linkedin.com/in/leeste/,Confirmed,All VT networks; 20+ yrs,Not sent
-2,Dave Jent,"AVP, Networks",Indiana University,,https://www.linkedin.com/in/dave-jent-b263316/,Confirmed,EDUCAUSE; I-Light/GigaPOP,Not sent
-2,Greg Sparks,"AVC & co-CTO, Communication Technologies",NC State,,https://www.linkedin.com/in/greg-sparks-71415218,Confirmed,EDUCAUSE; UC + network,Not sent
-2,Abraham Kololli,Director of Network Services,University of Utah,,SEARCH: Abraham Kololli Utah,Verify,Exact title match; eng + ops,Not sent
-2,Orrie Gartner,Director of IT Infrastructure & Engineering,CU Boulder,,SEARCH: Orrie Gartner Colorado,Verify,Network + infra,Not sent
-2,Judith Odett,"Executive Director, Infrastructure & Technology",Michigan State,,SEARCH: Judith Odett Michigan State,Verify,Network/compute/DC/comms,Not sent
-2,Daniel Foster,AVP for Infrastructure,Syracuse,,SEARCH: Daniel Foster Syracuse ITS,Verify,Core infra; open Dir-Networking req,Not sent
-2,Larry Lusk,Senior Director of Infrastructure,University of Kansas,,SEARCH: Larry Lusk KU,Verify,Central infra,Not sent
-2,Dave Kelly,"Executive Director, Enterprise Infrastructure",University of Iowa,,SEARCH: Dave Kelly Iowa ITS,Verify,Network + infra,Not sent
-2,Michael Balak,Director of IT (networking background),University of Minnesota,,https://www.linkedin.com/in/michael-balak-7885435/,Confirmed,Verify current team,Not sent
-2,Scott Day,"Director, Network & Physical Security Technology",Baylor,,SEARCH: Scott Day Baylor ITS,Verify,Network + physical security,Not sent
-2,Bob Hartland,AVP for IT Infrastructure,Baylor,,SEARCH: Bob Hartland Baylor,Verify,Infra leadership,Not sent
-2,Rob Smith,Director of IT Infrastructure,Wake Forest,,SEARCH: Rob Smith Wake Forest IS,Verify,Private R2,Not sent
-2,Chrissie Cordray,"Assistant CIO, Operations",Texas A&M,,SEARCH: Chrissie Cordray Texas A&M,Verify,Ex-network engineer; ops,Not sent
-2,George Creighton,"Manager, Network Operations",University of Houston,,SEARCH: George Creighton Houston,Verify,~15-FTE NOC,Not sent
-2,Tim Boyle,Manager of Networks,UMBC,,SEARCH: Timothy Boyle UMBC,Verify,Mid public; verify namesakes,Not sent
-2,Jess Williams,"Assistant Director, Infrastructure Engineering",UT Chattanooga,,SEARCH: Jess Williams UTC,Verify,Infra/network eng lead,Not sent
-2,Raymon Soellner,"Director, Telecommunications",UMBC,,SEARCH: Raymon Soellner UMBC,Verify,Telecom/voice-leaning,Not sent
-2,Jason Pollock,Director of Unified Communications,Ohio State,,https://www.linkedin.com/in/jason-pollock-789a3610/,Confirmed,UC/comms; large public,Not sent
+2,Shannon Price,IT Director (College of Engineering),Auburn,,https://www.linkedin.com/in/price-shannon-3028763/,Confirmed,20+ yrs research networking,Sent 2026-06-25
+2,Steve Lee,"Executive Director, Network Infrastructure & Services",Virginia Tech,,https://www.linkedin.com/in/leeste/,Confirmed,All VT networks; 20+ yrs,Sent 2026-06-25
+2,Dave Jent,"AVP, Networks",Indiana University,,https://www.linkedin.com/in/dave-jent-b263316/,Confirmed,EDUCAUSE; I-Light/GigaPOP,Sent 2026-06-25
+2,Greg Sparks,"AVC & co-CTO, Communication Technologies",NC State,,https://www.linkedin.com/in/greg-sparks-71415218,Confirmed,EDUCAUSE; UC + network,Sent 2026-06-25
+2,Abraham Kololli,Director of IT for Core Infrastructure Services,University of Utah,,SEARCH: Abraham Kololli Utah,Confirmed,Core infrastructure; eng + ops,Sent 2026-06-25
+2,Orrie Gartner,Associate Vice Chancellor & Deputy CIO,CU Boulder,,https://www.linkedin.com/search/results/people/?keywords=Orrie%20Gartner%20Colorado%20Boulder,Promoted to Deputy CIO,Too senior now - CIO-level not networking peer,Skipped - too senior
+2,Judith Odett,"Executive Director, Infrastructure & Technology for MSU IT",Michigan State,,SEARCH: Judy Odett Michigan State,Confirmed,Network/compute/DC/comms,Skipped - per user
+2,Daniel Foster,AVP for ITS Infrastructure Services,Syracuse,,SEARCH: Daniel Foster Syracuse ITS,Verify,Core infra; open Dir-Networking req,Skipped - per user
+2,Larry Lusk,Senior Director of Infrastructure,University of Kansas,,https://www.linkedin.com/in/larrydlusk/,Confirmed,Central infra; good peer - revisitable,Passed this round
+2,Dave Kelly,"Executive Director, Enterprise Infrastructure",University of Iowa,,SEARCH: Dave Kelly Iowa ITS,Confirmed,Network + infra; good peer - revisitable,Passed this round
+2,Michael Balak,Interim Sr. Director of Identity & Access Mgmt (IAM),University of Minnesota,,https://www.linkedin.com/in/michael-balak-7885435/,Mismatch,Now IAM/security not networking,Skipped - not a networking peer
+2,Scott Day,"Director, Network & Physical Security Technology",Baylor,,SEARCH: Scott Day Baylor ITS,Not found,Profile not surfacing; needs manual lookup,Skipped - not found
+2,Bob Hartland,AVP for IT Infrastructure,Baylor,,SEARCH: Bob Hartland Baylor,Not found,Profile not surfacing; needs manual lookup,Skipped - not found
+2,Rob Smith,Infrastructure & Operations Executive,Wake Forest,,(connected by user; verify Wake Forest),Sent (user-verified),Charlotte Metro; confirm WF affiliation,Sent 2026-06-25
+2,Chrissie Cordray,Assistant Chief Information Officer,Texas A&M,,SEARCH: Chrissie Cordray Texas A&M,Confirmed,Asst CIO ops; revisitable,Passed this round
+2,George Creighton,"Manager, Network Operations",University of Houston,,SEARCH: George Creighton Houston,Not found,Profile not surfacing; needs manual lookup,Skipped - not found
+2,Tim Boyle,Manager of Networks,UMBC,,SEARCH: Timothy Boyle UMBC (Nottingham MD),Confirmed,Mid public; Manager of Networks,Sent 2026-06-25
+2,Jess Williams,"Assistant Director, Infrastructure Engineering",UT Chattanooga,,SEARCH: Jess Williams UTC,Not found,No LinkedIn results; needs looser search/manual lookup,Skipped - not found
+2,Raymon Soellner,Director of Network & Telecommunication Services,UMBC,,SEARCH: Ray Soellner UMBC,Confirmed,Network + telecom,Sent 2026-06-25
+2,Jason Pollock,Director of Unified Communications,Ohio State,,https://www.linkedin.com/in/jason-pollock-789a3610/,Confirmed,UC/comms; large public,Sent 2026-06-25
 ADD,Chris Smith,Title TBD (Georgia Tech),Georgia Tech,,(connected by user; URL/title TBD),Added by user,Self-sourced add - not from research list,Sent 2026-06-25
+ADD,Brian Flanagan,Title TBD (Georgia Tech),Georgia Tech,,(connected by user; URL/title TBD),Added by user,Self-sourced add - not from research list,Sent 2026-06-25
