@@ -1,7 +1,7 @@
 ---
 date: 2026-06-23
 series: A
-status: scheduled
+status: published
 tags: [series-a, psychological-safety, expertise, listening, magis, leadership]
 lens: psychological safety / magis (Wicked as a light hook, real lesson carries it)
 word_count: ~265
