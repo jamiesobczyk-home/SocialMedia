@@ -20,7 +20,7 @@ FACT NOTE (verified 2026-06): Cisco's Universal Quantum Switch is real, announce
 
 We spent twenty minutes arguing about how to cool a rack of GPUs before someone asked the better question: why are we trying to cool six racks' worth of heat at all?
 
-A few of us were talking about data center cooling. GPUs run hot, air only moves so much heat, and we went deep into the weeds on how to pull more of it out of the room. Then someone brought up the new Universal Quantum Switch that Cisco announced in April of this year that operates at room temperature. The whole question shifted. What if we didn't have to worry about cooling the room, what if the equipment changed to produce less heat in the first place?
+A few of us were talking about data center cooling. GPUs run hot, air only moves so much heat, and we went deep into the weeds on how to pull more of it out of the room. Then someone brought up the new Universal Quantum Switch that Cisco announced in April of this year that operates at room temperature. The whole question shifted. What if we didn't have to worry about cooling the room? What if the equipment just didn't need all that cooling in the first place?
 
 That same morning, an exec told a story about an airline buried in lost luggage. For years they worked on finding lost bags faster. The breakthrough came when they stopped optimizing the search and started preventing bags from getting lost in the first place. The efficiency problem didn't get solved. It got eliminated.
 
