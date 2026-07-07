@@ -1,7 +1,7 @@
 ---
 date: 2026-06-30
 series: A
-status: scheduled
+status: published
 tags: [series-a, systems-thinking, reframing, problem-solving, upstream]
 lens: systems thinking (leverage points, upstream intervention)
 word_count: ~265
