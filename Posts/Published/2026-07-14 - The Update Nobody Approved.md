@@ -1,24 +1,11 @@
 ---
 date: 2026-07-14
 series: A
-status: draft
+status: published
 tags: [series-a, change-management, crowdstrike, vendor-risk, blind-spots, systems-thinking]
 lens: systems thinking (the stated system vs the actual system)
-word_count: ~245
+word-count: 255
 ---
-
-<!--
-HOOK OPTION 1:
-Two years ago this week, a file none of us approved rebooted eight and a half million computers. The part that still bothers me isn't the outage.
-
-HOOK OPTION 2:
-We had change control. We had staging rings. We had approvals. None of it covered the thing that actually took everyone down.
-
-CALENDAR PEG: July 19, 2026 = 2-year anniversary of the CrowdStrike/Windows outage (July 19, 2024).
-FACT BASIS (verified): ~8.5M Windows machines BSOD'd; $5.4B est. losses for top-500 US firms; the key lesson was that sensor-version staging policies did NOT govern channel-file content updates.
-PLACEHOLDERS FOR JAMIE: were you hit that day (you were at CRST then)? What did your own audit actually find? Swap the middle paragraph for your real moment.
-ARC: hook (anniversary) -> the blind spot -> the audit story -> lesson -> closing question
--->
 
 Two years ago this week, a file none of us approved rebooted eight and a half million computers. What still haunts me isn't the outage.
 
