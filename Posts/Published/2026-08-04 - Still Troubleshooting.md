@@ -1,35 +1,11 @@
 ---
 date: 2026-08-04
 series: A
-status: draft
+status: published
 tags: [series-a, career, ic-vs-manager, leadership, troubleshooting, mentoring, stoicism]
 lens: stoicism (adapting, letting go of an identity you were attached to), quiet forming-agents-of-change thread
-word_count: ~249
+word_count: 249
 ---
-
-<!--
-HOOK OPTION 1:
-I miss being a keyboard jockey. I just don't want the job back.
-
-HOOK OPTION 2:
-For most of my career, my pride came from the CLI. Give me a switch, a router, and a problem nobody else could crack, and I was happy.
-
-ROADMAP REF: #78 "The road not taken: staying technical"
-SOURCE: Jamie's own framing. Missed the keyboard-jockey days; found endless joy leading teams
-that do that work now. Some more capable than he ever was, others newer engineers he mentors.
-Key realization: the thrill was never the CLI, it was the troubleshooting. Non-technical problems
-scratch the same itch. Still exercises the technical side by talking through issues with the team.
-
-GAP TO FILL (optional but would strengthen): this runs on a realization arc rather than one
-specific scene. If Jamie has a concrete moment (a senior engineer solving something he couldn't
-have, a newer engineer where it clicked, the last time he sat at a CLI himself), swap it into
-paragraph four or five.
-
-OVERLAP CHECK: clear of "Outside the Lane" (5/10, seeing past a job description) and
-"Losing the Voice" (6/23, experts going quiet).
-ARC: what I was proud of -> the problems changed -> the thrill transferred -> I still use the
-technical side, just differently -> the trade, named honestly -> closing question
--->
 
 For most of my career, my pride came from the CLI. Give me a switch, a router, and a problem nobody else could crack, and I was happy. I knew I was good at it.
 
